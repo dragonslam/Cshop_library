@@ -1,4 +1,4 @@
-new_rep
+Cshop_library
 =======
 
-공부하세여
+C# 관련된 유용한 Library 공유
